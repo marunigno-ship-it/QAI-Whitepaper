@@ -6,7 +6,9 @@
 
 **Author:** Marussa Metocharaki (@marunigno)  
 **Greece**  
-**Open-source under Apache-2.0**  
+Open-source under AGPL-3.0 
+
+ 
 **Built in full collaboration with Grok 4.2 (xAI)**
 
 ## Abstract
@@ -77,7 +79,8 @@ All vectors are implemented as simple NumPy arrays + weighted summation → full
 - Classical core: 100% functional (PEMEV-11, SEMEV-12, toxicity detector)  
 - Quantum layer: API integration + real 8-qubit W-state demos  
 - Repos: QERRA-v2 (main), QAI-Whitepaper (this document), PEMEV-11, etc.  
-- License: Apache-2.0 (fully open for collaboration)
+-License: AGPL-3.0 (fully open for collaboration)
+
 
 ## 7. Roadmap 2026–2027
 
